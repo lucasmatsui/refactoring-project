@@ -7,8 +7,8 @@
 ##### Os Clientes solicitarão algumas peças e a compainha ira cobrar desses clientes com base no:
 - Numero de espectadores
 - Tipo peça encenada
-###### Tipos de peças encenadas atualmente
+##### Tipos de peças encenadas atualmente:
 - Comédia
 - Tragédia
 
-###### A compainha dará creditos por volume de pessoas assistindo.
+##### A compainha dará creditos por volume de pessoas assistindo.
